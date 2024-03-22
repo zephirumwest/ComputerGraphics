@@ -1,5 +1,4 @@
-HW02</br>
-Specification</br>
+HW02 Specification</br>
 ¡ 청녹색 background</br>
 ¡ 오렌지색 사각 도넛을 GL_TRIANGLE_STRIP 으로 그린다. (immediate mode사용)</br>
 ¡ 도넛의 중심은 (0, 0) 에 있으며, 크기와 두께는 적절히 정한다.</br>
