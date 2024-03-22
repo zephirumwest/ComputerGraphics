@@ -24,7 +24,8 @@
 
 - GL_TRIANGLE_STRIP 이용
 
-- 한개의 VBO, 한개의 VAO 이용</br>
+- 한개의 VBO, 한개의 VAO 이용
+  </br>
 
 실행영상
 
