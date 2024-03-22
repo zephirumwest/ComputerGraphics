@@ -1,4 +1,4 @@
-시작하면 다각형들은 주어진 color로 fill 되어 있는 상태</br>
+시작하면 다각형들은 주어진 color로 fill 되어 있는 상태
 
 ‘e’ key를 누르면 삼각형 edge들만 보이는 mode와 polygon fill mode를 toggle</br>
 
